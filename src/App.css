@@ -1,1 +1,6 @@
 /*Schrijf hier jouw css voor jouw formulier*/
+
+textarea {
+    width: 400px;
+    height: 100px;
+}
